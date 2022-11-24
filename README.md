@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshitiz311
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Spanish
 - 💞️ I’m looking to collaborate on Data Analytics related projects
 - 📫 How to reach me kshitiz31100@gmail.com
 
